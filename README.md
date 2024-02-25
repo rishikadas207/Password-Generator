@@ -1,9 +1,5 @@
 # Password-Generator
 
-
-Certainly! Here's a structured README file for your Random Password Generator project:
-
-Random Password Generator
 Welcome to the Random Password Generator project! This web application is built using HTML, CSS, and JavaScript to generate strong passwords with a combination of uppercase letters, lowercase letters, numbers, and symbols. Additionally, it includes a feature to copy the generated password to the clipboard for easy use.
 
 Features
